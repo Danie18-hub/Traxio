@@ -1,0 +1,6 @@
+{
+  "name": "Traxio - Global Courier & Parcel Tracking",
+  "description": "Professional courier, parcel tracking, express shipping, freight, and logistics management with real-time package updates and delivery tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
